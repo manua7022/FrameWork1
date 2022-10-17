@@ -1,0 +1,2 @@
+browser firfox
+url https://www.makemytrip.com
